@@ -20,7 +20,7 @@ ____/______/______/______/______/_____=._o._; | ;____/______/______/______/____
 *******************************************************************************
 ''')
 print("Welcome to Treasure Island")
-print("Your missing is to find the treasure.")
+print("Your mission is to find the treasure.")
 choice1 = input('You\'re at a crossroad, where do you want to go?'
                 'Type "left" or "right".\n').lower()
 
